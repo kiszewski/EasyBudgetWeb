@@ -1,0 +1,82 @@
+{
+    "sign_with_google": "Sign with Google",
+    "easy_budget": "Easy Budget",
+
+    "Salary": "Salary",
+    "Extra": "Extra",
+    "Loan": "Loan",
+    "House": "House",
+    "Food": "Food",
+    "Other": "Other",
+    "Restaurant": "Restaurant",
+    "Clothes": "Clothes",
+    "Gifts": "Gifts",
+    "Family": "Family",
+    "Health": "Health",
+    "Investments": "Investments",
+    "Transport": "Transport",
+    "Trip": "Trip",
+    "Streaming": "Streaming",
+    "Studies": "Studies",
+
+    "Budget": "Budget",
+    "Monthly": "Monthly",
+    "Annual": "Annual",
+    "Create_first_budget": "Create your first budget",
+    "Create_Budget": "Create Budget",
+    "Confirm_budget": "Confirm budget",
+    "Category": "Category",
+    "Categories": "Categories",
+    "Select_expense_categories_to_budget": "Select the expense categories that will make up your budget:",
+    "Division_between_categories": "Division between categories",
+
+    "percent_create_budget": "You still have %s to choose from.",
+    "over_percent_create_budget": "Your budget is in %s. Set it to a maximum of 100%.",
+
+    "Timeline": "Timeline",
+    "Expenses": "Expenses",
+    "Incomes": "Incomes",
+    "Expense": "Expense",
+    "Income": "Income",
+
+    "No_expense_message": "No expenses registered",
+    "No_income_message": "No incomes registered",
+
+    "qtd_Expenses": "%s Expenses",
+    "qtd_Incomes": "%s Incomes",
+
+    "All": "All",
+    "qtd_Days": "%s Days",
+
+    "Edit_Expense": "Edit Expense",
+    "Edit_Income": "Edit Income",
+    "Delete": "Delete",
+    "Delete_Expense": "Delete Expense",
+    "Delete_Income": "Delete Income",
+    "Confirm_Delete_Expense": "Do you really want to exclude this expense?",
+    "Confirm_Delete_Income": "Do you really want to delete this income?",
+
+    "Amount": "Amount",
+    "Description": "Description",
+    
+    "Account": "Account",
+    "Dark_Theme": "Dark Theme",
+
+    "Alert": "Alert",
+    "Edit_category": "Edit category",
+    "Create_category": "Create category",
+    "Delete_category": "Delete category",
+    "Confirm_delete_category": "Do you really want to delete this category?",
+    "Delete_category_error": "Unable to delete as the category is being used in expenses/income or in your budget.",
+
+    "Category_name": "Category name",
+    "Name": "Name",
+    "Icons": "Icons",
+    "Colors": "Colors",
+
+    "New_expense": "New expense",
+    "New_income": "New income",
+
+    "Recurrent": "Recurrent",
+    "Interval": "Interval"
+}
