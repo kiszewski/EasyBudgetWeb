@@ -1,0 +1,83 @@
+{
+    "sign_with_google": "Entrar com Google",
+    "easy_budget": "Easy Budget",
+
+    "Salary": "Salário",
+    "Extra": "Extra",
+    "Loan": "Empréstimo",
+    "House": "Casa",
+    "Food": "Comida",
+    "Other": "Outro",
+    "Restaurant": "Restaurante",
+    "Clothes": "Roupas",
+    "Gifts": "Presentes",
+    "Family": "Família",
+    "Health": "Saúde",
+    "Investments": "Investimentos",
+    "Transport": "Transporte",
+    "Trip": "Viagem",
+    "Streaming": "Streaming",
+    "Studies": "Estudos",
+
+    "Budget": "Orçamento",
+    "Monthly": "Mensal",
+    "Annual": "Anual",
+    "Create_first_budget": "Crie seu primeiro orçamento",
+    "Create_Budget": "Criar Orçamento",
+    "Confirm_budget": "Confirmar orçamento",
+    "Category": "Categoria",
+    "Categories": "Categorias",
+    "Select_expense_categories_to_budget": "Selecione as categorias de gastos que irão compor o seu orçamento:",
+    "Division_between_categories": "Divisão entre categorias",
+
+    "percent_create_budget": "Você ainda tem %s para escolher.",
+    "over_percent_create_budget": "Seu orçamento está em %s. Ajuste para que fique no máximo em 100%.",
+
+    "Timeline": "Linha do tempo",
+    "Expenses": "Gastos",
+    "Incomes": "Receitas",
+    "Expense": "Gasto",
+    "Income": "Receita",
+
+    "No_expense_message": "Nenhum gasto cadastrado",
+    "No_income_message": "Nenhuma receita cadastrada",
+
+    "qtd_Expenses": "%s Compras",
+    "qtd_Incomes": "%s Receitas",
+
+    "All": "Tudo",
+    "qtd_Days": "%s Dias",
+
+    "Edit_Expense": "Editar Gasto",
+    "Edit_Income": "Editar Receita",
+    "Delete": "Excluir",
+    "Delete_Expense": "Excluir Gasto",
+    "Delete_Income": "Excluir Receita",
+    "Confirm_Delete_Expense": "Deseja mesmo excluir esse gasto?",
+    "Confirm_Delete_Income": "Deseja mesmo excluir esse receita?",
+
+    "Amount": "Quantia",
+    "Description": "Descrição",
+
+    "Account": "Conta",
+    "Dark_Theme": "Tema escuro",
+
+    "Alert": "Alerta",
+    "Edit_category": "Editar categoria",
+    "Create_category": "Criar categoria",
+    "Delete_category": "Excluir categoria",
+    "Confirm_delete_category": "Deseja mesmo excluir essa categoria?",
+    "Delete_category_error": "Não foi possível deletar pois a categoria está sendo usada em despesas/receitas ou no seu orçamento.",
+
+    "Category_name": "Nome da categoria",
+    "Name": "Nome",
+    "Icons": "Ícones",
+    "Colors": "Cores",
+
+    "New_expense": "Novo gasto",
+    "New_income": "Nova receita",
+
+    "Recurrent": "Recorrente",
+    "Interval": "Intervalo",
+    "AllTheTime": "Todo o período"
+}
